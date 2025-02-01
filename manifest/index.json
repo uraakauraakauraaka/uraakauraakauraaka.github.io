@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "講中文的 GAMEDEV 裏垢",
+  "short_name": "講中文的 GAMEDEV 裏垢",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#242629",
+  "theme_color": "#db5793"
+  
+    ,
+    "description": "負能量、低氣壓"
+  
+  
+    ,
+    "icons": [
+      {
+        "src": "/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  
+}
+

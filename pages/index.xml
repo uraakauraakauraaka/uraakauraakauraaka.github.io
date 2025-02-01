@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Pages on 講中文的 GAMEDEV 裏垢</title>
+    <link>https://uraakauraakauraaka.github.io/pages/</link>
+    <description>Recent content in Pages on 講中文的 GAMEDEV 裏垢</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>uraakauraakauraaka copyright</copyright>
+    <lastBuildDate>Sun, 12 Jan 2025 17:35:31 +0800</lastBuildDate><atom:link href="https://uraakauraakauraaka.github.io/pages/index.xml" rel="self" type="application/rss+xml" /><icon>https://uraakauraakauraaka.github.io/logo.svg</icon>
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://uraakauraakauraaka.github.io/pages/about/</link>
+      <pubDate>Sun, 12 Jan 2025 17:35:31 +0800</pubDate>
+      
+      <guid>https://uraakauraakauraaka.github.io/pages/about/</guid>
+      <description><![CDATA[<blockquote>
+<p>從來沒有覺得做遊戲開心過.jpg</p></blockquote>
+<p>不想代表任何身分的自私主義者所寫的一堆不敢正面表達的暴言。</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
